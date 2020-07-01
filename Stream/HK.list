@@ -1,0 +1,44 @@
+# encoreTVB
+USER-AGENT,encoreTVB*
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN,content.jwplatform.com
+DOMAIN,videos-f.jwpsrv.com# Now E
+USER-AGENT,PCCW*,HK
+DOMAIN-KEYWORD,nowe,HK
+DOMAIN,bcbolthboa-a.akamaihd.net,HK
+DOMAIN-SUFFIX,nowe.com,HK
+DOMAIN-SUFFIX,youboranqs01.com,HK
+# > HBO GO HKG
+USER-AGENT,HBO%20GO%20PROD%20HKG*
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN,players.brightcove.net
+DOMAIN,s3-ap-southeast-1.amazonaws.com
+DOMAIN,dai3fd1oh325y.cloudfront.net
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+DOMAIN,hboasia1-i.akamaihd.net
+DOMAIN,hboasia2-i.akamaihd.net
+DOMAIN,hboasia3-i.akamaihd.net
+DOMAIN,hboasia4-i.akamaihd.net
+DOMAIN,hboasia5-i.akamaihd.net
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+# ViuTV
+USER-AGENT,ViuTV*
+DOMAIN-SUFFIX,bootstrapcdn.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,jwplayer.com
+DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,viu.now.com
+# Now E
+USER-AGENT,PCCW*,HK
+DOMAIN-KEYWORD,nowe,HK
+DOMAIN,bcbolthboa-a.akamaihd.net,HK
+DOMAIN-SUFFIX,nowe.com,HK
+DOMAIN-SUFFIX,youboranqs01.com,HK
