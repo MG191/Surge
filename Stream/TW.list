@@ -2,8 +2,33 @@
 USER-AGENT,friDay*
 DOMAIN-SUFFIX,friday.tw
 
-# > Bahamut
+# Bahamut
 USER-AGENT,Anime*
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,hinet.net
+
+# Other
+DOMAIN-SUFFIX,biggo.com.tw
+DOMAIN-SUFFIX,book.com.tw
+DOMAIN-SUFFIX,books.com.tw
+DOMAIN-SUFFIX,cna.com.tw
+DOMAIN-SUFFIX,cts.com.tw
+DOMAIN-SUFFIX,cw.com.tw
+DOMAIN-SUFFIX,dailyview.tw
+DOMAIN-SUFFIX,dcard.tw
+DOMAIN-SUFFIX,ebookservice.tw
+DOMAIN-SUFFIX,gov.tw
+DOMAIN-SUFFIX,hyread.com.tw
+DOMAIN-SUFFIX,pcdvd.com.tw
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,po18.tw
+DOMAIN-SUFFIX,pts.org.tw
+DOMAIN-SUFFIX,pubu.com.tw
+DOMAIN-SUFFIX,pubu.tw
+DOMAIN-SUFFIX,readingtimes.com.tw
+DOMAIN-SUFFIX,shopee.tw
+DOMAIN-SUFFIX,0rz.tw
+DOMAIN-SUFFIX,bcc.com.tw
+DOMAIN-SUFFIX,ctitv.com.tw
+DOMAIN-SUFFIX,focustaiwan.tw
