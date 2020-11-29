@@ -1,6 +1,6 @@
 # iQiyi
 USER-AGENT,*QIYI*
-USER-AGENT,iQiYi*
+USER-AGENT,*iQiYi*
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,iq.com
