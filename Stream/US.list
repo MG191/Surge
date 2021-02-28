@@ -19,12 +19,12 @@ DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,uplynk.com
 # HBO Max
-USER-AGENT,HBOMAX*
-DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
+USER-AGENT,HBO%20NOW*
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
-DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbonow.com
+USER-AGENT,HBOMAX*
+DOMAIN-SUFFIX,hbomax.com
 # ShowTime
 DOMAIN-SUFFIX,sho.com
 DOMAIN-SUFFIX,showtime.com
