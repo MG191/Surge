@@ -25,7 +25,6 @@ DOMAIN,hboasia5-i.akamaihd.net
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
 
 # Other
-DOMAIN-SUFFIX,mobile01.com
 DOMAIN-SUFFIX,biggo.com.tw
 DOMAIN-SUFFIX,book.com.tw
 DOMAIN-SUFFIX,books.com.tw
