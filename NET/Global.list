@@ -1,18 +1,18 @@
-# > Akamai
+# Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
-# > Discord
+# Discord
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
-# > Dropbox
+# Dropbox
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxusercontent.com
- # > Github
+# Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
-# > Twitter
+# Twitter
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,t.co
@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vine.co
-# > Telegram
+# Telegram
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegram.me
@@ -42,13 +42,13 @@ IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23c::/48,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
-# > Wikimedia Foundation
+# Wikimedia Foundation
 DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikimapia.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,wikipedia.org
-# > Others
+# Others
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,9gag.com
