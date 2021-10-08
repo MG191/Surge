@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,dropboxusercontent.com
  # > Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubusercontent.com
 # > Twitter
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,periscope.tv
