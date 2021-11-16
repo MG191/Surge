@@ -23,3 +23,15 @@ DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,now.com
 DOMAIN-SUFFIX,youboranqs01.com
+# Disney Plus
+USER-AGENT,Disney*
+DOMAIN,cdn.registerdisney.go.com
+DOMAIN,cdn.cdn.unid.go.com
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,conviva.com
+DOMAIN-SUFFIX,disney.demdex.net
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,dssott.com
+DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
