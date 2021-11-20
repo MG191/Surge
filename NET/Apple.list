@@ -32,3 +32,5 @@ DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,radio.itunes.apple.com
+DOMAIN,tv.applemusic.com
