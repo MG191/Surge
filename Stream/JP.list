@@ -46,7 +46,7 @@ DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,streaks.jp
 DOMAIN-SUFFIX,yb.uncn.jp
 
-#
+# mgstage
 DOMAIN-SUFFIX,mgstage.com
 
 # mora
@@ -76,3 +76,5 @@ USER-AGENT,Niconico*
 
 # 集英社
 DOMAIN-SUFFIX,shueisha.co.jp
+
+DOMAIN-SUFFIX,rakuten.co.jp
